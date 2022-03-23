@@ -1,0 +1,25 @@
+h1 {
+    background-color: teal;
+    color:wheat;
+}
+
+.main-link {
+    font-size: 24px;
+    font-style: italic;
+}
+
+#recipe-desc {
+    font-size:24px;
+    font-style:italic;
+}
+
+.list, .ordered {
+    background-color: bisque;
+    font-size:24px;
+    color: darkblue;
+}
+
+.ordered {
+    background-color: cornsilk;
+    color:indigo;
+}
